@@ -54,6 +54,7 @@
   </repositories>
 
   <modules>
+    <module>azure-queue-storage</module>
     <module>azurecompute-arm</module>
     <module>azurecompute</module>
     <module>cdmi</module>
